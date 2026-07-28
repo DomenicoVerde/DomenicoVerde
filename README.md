@@ -2,3 +2,4 @@
 
 I'm a young R&D Software Engineer passionate about computer networks. My interests span the entire networking stack, from the physical layer to the application layer, with a strong focus on network security, mobile (4G/5G) and satellite communications, cloud and edge computing (MEC), and emerging protocols such as QUIC, HTTP/3 and Voice over WiFi (VoWiFi).
 
+Some open-source projects I have contributed to: [Free5GC](https://github.com/free5gc/governance/blob/main/CONTRIBUTORS.md), [hostap/wpa_supplicant](https://patchwork.ozlabs.org/project/hostap/patch/5143771f-3355-4bfe-863f-1e708c836306@alumni.uniroma2.eu/).
